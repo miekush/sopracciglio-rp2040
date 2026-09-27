@@ -1,5 +1,7 @@
-# sopracciglio-rp2040
+# Sopracciglio RP2040
 Raspberry Pi RP2040 based Sopracciglio Board for use with 2026 Open Sauce Badge
+
+![Board Image](https://github.com/miekush/sopracciglio-rp2040/blob/main/board.JPEG)
 
 # Installation
 
