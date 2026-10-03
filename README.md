@@ -3,6 +3,12 @@ Raspberry Pi RP2040 based Sopracciglio Board for use with 2026 Open Sauce Badge
 
 ![Board Image](https://github.com/miekush/sopracciglio-rp2040/blob/main/board.JPEG)
 
+# Schematic
+![Schematic](https://github.com/miekush/sopracciglio-rp2040/blob/main/rp2040_schematic.png)
+
+# Layout
+![Board Layout](https://github.com/miekush/sopracciglio-rp2040/blob/main/rp2040_layout.png)
+
 # Installation
 
 1. Clone repo to a folder of your choice
